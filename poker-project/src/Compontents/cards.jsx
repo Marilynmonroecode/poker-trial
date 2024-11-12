@@ -4,7 +4,7 @@
 function Cards ({image}){
     return(
         <div id="cards">
-            <img src={image} alt="card image"/>
+            <img src={image} alt=""/>
         </div>
     )
 }
